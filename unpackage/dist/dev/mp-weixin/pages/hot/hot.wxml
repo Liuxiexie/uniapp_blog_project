@@ -1,0 +1,1 @@
+<view class="hot-container data-v-4aaa739e"><image class="logo data-v-4aaa739e" src="{{a}}" mode="aspectFit"></image><view class="search-box data-v-4aaa739e"><my-search wx:if="{{b}}" class="data-v-4aaa739e" u-i="4aaa739e-0" bind:__l="__l" u-p="{{b}}"></my-search></view><my-tabs class="data-v-4aaa739e" u-i="4aaa739e-1" bind:__l="__l"></my-tabs></view>
